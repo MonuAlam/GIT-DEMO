@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8485-22F3
+
+ Directory of C:\Users\DELL\Desktop\Git Demo
+
+03/06/2025  12:10 PM    <DIR>          .
+03/06/2025  12:10 PM    <DIR>          ..
+03/06/2025  12:02 PM               353 text.txt
+03/06/2025  12:10 PM                 0 text1.txt
+03/06/2025  12:02 PM               403 text2.txt
+               3 File(s)            756 bytes
+               2 Dir(s)  15,114,825,728 bytes free
